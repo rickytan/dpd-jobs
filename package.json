@@ -15,7 +15,7 @@
   },
   "license": "MIT",
   "dependencies": {
-      "node-schedule": "",
+      "node-schedule": "https://github.com/rickytan/node-schedule.git",
       "request": ""
   },
     "devDependencies": {
